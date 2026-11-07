@@ -1,0 +1,28 @@
+/.phpunit.cache
+/node_modules
+/public/build
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.env.production
+Homestead.json
+Homestead.yaml
+auth.json
+npm-debug.log
+yarn-error.log
+/.fleet
+/.idea
+/.vscode
+
+# Local source archives (the real files are already in the repo)
+/app.zip
+/public.zip
+/resources.zip
+/routes.zip
+
+# Debug scripts that print or test live database credentials
+/public/final_debug.php
+/public/test_credentials.php
